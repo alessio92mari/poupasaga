@@ -1,0 +1,34 @@
+body {
+    background-color: #A9E0E2;
+    color: #1F6C69;
+}
+
+h3 {
+    color: #379699;
+}
+
+.card {
+    border: 1px solid #379699;
+}
+
+.btn-primary {
+    background-color: #1F6C69;
+    border-color: #1F6C69;
+}
+
+.btn-success {
+    background-color: #379699;
+    border-color: #379699;
+}
+
+.progress-bar {
+    background-color: #1F6C69;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #FFFFFF;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+    background-color: #A9E0E2;
+}
